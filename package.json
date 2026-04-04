@@ -28,6 +28,8 @@
     "parcel": "^2.16.4"
   },
   "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "chart.js": "^4.5.1",
     "gh-pages": "^6.3.0",
     "nanoid": "^5.1.7"
   }
